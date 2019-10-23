@@ -1,3 +1,6 @@
 Esta es proyecto nuevo para aprender git,
 vamos a utilizar android studio y flutter
 SDK  Oreo
+
+-----
+Este es mi aporte -- Elmer
